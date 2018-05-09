@@ -1,9 +1,5 @@
 package javaBase;
-/**
- * 关于字符串能不能被修改的问题
- * @author Administrator
- *
- */
+
 public class Test1 {
     String str = new String("good");
     char[] ch = new char[]{'a','b','c'};
