@@ -1,5 +1,13 @@
 package javaBase;
-
+/**
+ * false
+false
+true
+good=====
+gbc
+ * @author Administrator
+ *
+ */
 public class Test1 {
     String str = new String("good");
     char[] ch = new char[]{'a','b','c'};
